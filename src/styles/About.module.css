@@ -1,0 +1,11 @@
+.darkTheme{
+    color: white;
+    background-color:black !important;
+    /* border-radius: 5px; */
+}
+
+.lightTheme{
+    color:  black;
+    background-color: white !important;
+    /* border-radius: 5px; */
+}
